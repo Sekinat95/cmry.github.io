@@ -1,11 +1,11 @@
 # Site Info
-title:              "Chris Emmery"
+title:              "Sekinat Yahya"
 description:        "Academic Blog."
 
 # Author Info
 author_name:        "Chris Emmery"
-author_gravatar:    8920c4869ea592a7bfbe49caa8cba6e8 # Gravatar md5 hash
-twitter_username:   _cmry
+author_gravatar:    e1787b206f52b9888a25efee56eee0d2 # Gravatar md5 hash
+twitter_username:   _sakinah__
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
@@ -66,10 +66,10 @@ links:
     info:         README
     url:          /about
   - name:         fab fa-twitter
-    url:          https://twitter.com/_cmry
+    url:          https://twitter.com/_sakinah__
     info:         Twitter
   - name:         fab fa-github
-    url:          https://github.com/cmry
+    url:          https://github.com/sekinat95
     info:         GitHub
   - name:         fa fa-stroopwafel
     url:          /contact
