@@ -19,6 +19,6 @@ permalink: about
 
 [comment]:<>I enjoy (too) many things outside of academia: heavy music (yearly most frequent albums below, I'm [unfortunately](https://www.youtube.com/watch?v=nkCMSrvOTAo) also into vinyl, I play guitar and drums), food (cooking and eating, I'm particular fond of (South)-East Asian cuisine, BBQ, and Erwtensoep), and video games (RPGs/shooters, but tbf I mostly have an ungodly amount of hours on the EA Skate games). If I'm not doing the above I'm most likely hanging out with my son, binging Crunchyroll, or deadlifting in my garage.
 
-<div style="overflow: hidden; height:308px;">
+<!--<div style="overflow: hidden; height:308px;">
 <img src="http://lastfmtopalbums.dinduks.com/patchwork.php?user=fazzeh&period=12month&rows=4&cols=10&imageSize=150&noborder=on" style="display: block; margin-left: auto; margin-right: auto; width: 100%; padding-top: 20px;">
-</div>
+</div>-->
