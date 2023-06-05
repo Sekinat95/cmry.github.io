@@ -71,7 +71,7 @@ links:
   - name:         fab fa-github
     url:          https://github.com/sekinat95
     info:         GitHub
-  - name:         fa fa-envelope
-    url:          https://sakinah.substack.com/
-    info:         Substack
+  #- name:         fa fa-envelope
+  #  url:          https://sakinah.substack.com/
+  #  info:         Substack
 
