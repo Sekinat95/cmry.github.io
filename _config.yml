@@ -71,6 +71,11 @@ links:
   - name:         fab fa-github
     url:          https://github.com/sekinat95
     info:         GitHub
+
+  - name:          fa fa-sharp fa-regular fa-user-graduate
+    url:          https://scholar.google.com/citations?user=6Y7OKF8AAAAJ&hl=fr
+    info:         Google Scholar
+
   #- name:         fa fa-envelope
   #  url:          https://sakinah.substack.com/
   #  info:         Substack
